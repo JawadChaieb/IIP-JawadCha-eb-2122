@@ -1,0 +1,11 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\bin\Debug\netcoreapp3.1\ConsoleBMI.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\bin\Debug\netcoreapp3.1\ConsoleBMI.deps.json
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\bin\Debug\netcoreapp3.1\ConsoleBMI.runtimeconfig.json
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\bin\Debug\netcoreapp3.1\ConsoleBMI.runtimeconfig.dev.json
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\bin\Debug\netcoreapp3.1\ConsoleBMI.dll
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\bin\Debug\netcoreapp3.1\ConsoleBMI.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\obj\Debug\netcoreapp3.1\ConsoleBMI.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\obj\Debug\netcoreapp3.1\ConsoleBMI.AssemblyInfoInputs.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\obj\Debug\netcoreapp3.1\ConsoleBMI.AssemblyInfo.cs
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\obj\Debug\netcoreapp3.1\ConsoleBMI.dll
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\02.IIP-variabelen en berekeningen\Oefening2\ConsoleBMI\obj\Debug\netcoreapp3.1\ConsoleBMI.pdb
