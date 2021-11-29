@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfVolumeSlider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfVolumeSlider"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="LightBlue">
+    <Grid>
+        <Slider x:Name="slr" HorizontalAlignment="Left" Minimum="0" IsSnapToTickEnabled="True" Maximum="100" TickFrequency="5" Margin="87,173,0,0" VerticalAlignment="Top" Height="87" Width="628" ValueChanged="Slider_ValueChanged"/>
+        <Label x:Name="lblVolume" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="295,265,0,0" Height="47" Width="188"/>
+        
+    </Grid>
+</Window>

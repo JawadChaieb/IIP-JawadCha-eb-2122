@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGreenHouse", "Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChat", "WpfChat\WpfChat.csproj", "{45531990-5F8A-432C-823E-6C49117DFCA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfVolumeSlider", "WpfVolumeSlider\WpfVolumeSlider.csproj", "{80A052F9-B127-4FF6-A6FC-D8A21F66E248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPizza", "WpfPizza\WpfPizza.csproj", "{6FF276B7-C025-4C57-AD7C-EABF1EA50579}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{45531990-5F8A-432C-823E-6C49117DFCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45531990-5F8A-432C-823E-6C49117DFCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45531990-5F8A-432C-823E-6C49117DFCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A052F9-B127-4FF6-A6FC-D8A21F66E248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A052F9-B127-4FF6-A6FC-D8A21F66E248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A052F9-B127-4FF6-A6FC-D8A21F66E248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A052F9-B127-4FF6-A6FC-D8A21F66E248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF276B7-C025-4C57-AD7C-EABF1EA50579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF276B7-C025-4C57-AD7C-EABF1EA50579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF276B7-C025-4C57-AD7C-EABF1EA50579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF276B7-C025-4C57-AD7C-EABF1EA50579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
