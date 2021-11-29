@@ -1,0 +1,5 @@
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleAsciiArt\bin\Debug\ConsoleAsciiArt.exe.config
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleAsciiArt\bin\Debug\ConsoleAsciiArt.exe
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleAsciiArt\bin\Debug\ConsoleAsciiArt.pdb
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleAsciiArt\obj\Debug\ConsoleAsciiArt.exe
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleAsciiArt\obj\Debug\ConsoleAsciiArt.pdb

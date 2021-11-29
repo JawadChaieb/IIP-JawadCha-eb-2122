@@ -1,0 +1,6 @@
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleHello\bin\Debug\ConsoleHello.exe.config
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleHello\bin\Debug\ConsoleHello.exe
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleHello\bin\Debug\ConsoleHello.pdb
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleHello\obj\Debug\ConsoleHello.csprojAssemblyReference.cache
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleHello\obj\Debug\ConsoleHello.exe
+C:\Users\jawad\Documents\IIP-JawadChaieb-2122\01.IIP-visual studio en WPF\SlnIntro\ConsoleHello\obj\Debug\ConsoleHello.pdb
