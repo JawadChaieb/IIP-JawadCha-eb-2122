@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfRaden.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfRaden"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Raad een getal tussen 1 en 10" VerticalAlignment="Top" Margin="204,136,0,0" Height="35" Width="320" FontSize="20" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Jouw gok:" VerticalAlignment="Top" Margin="204,213,0,0"/>
+        <Button x:Name="btnControle" Content="CONTROLEER" HorizontalAlignment="Left" VerticalAlignment="Top" Width="92" Margin="432,275,0,0" Click="btnControle_Click"/>
+        <TextBox x:Name="txtGok" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="404,213,0,0"/>
+        <Label x:Name="lblBericht" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,320,0,0" Width="320"/>
+
+    </Grid>
+</Window>
