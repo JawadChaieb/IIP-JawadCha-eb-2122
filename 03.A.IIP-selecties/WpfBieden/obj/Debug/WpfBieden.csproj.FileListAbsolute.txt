@@ -1,0 +1,14 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\bin\Debug\WpfBieden.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\bin\Debug\WpfBieden.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\bin\Debug\WpfBieden.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\MainWindow.g.cs
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\App.g.cs
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden_MarkupCompile.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden_MarkupCompile.lref
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\MainWindow.baml
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden.g.resources
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden.Properties.Resources.resources
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden.csproj.GenerateResource.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfBieden\obj\Debug\WpfBieden.pdb
