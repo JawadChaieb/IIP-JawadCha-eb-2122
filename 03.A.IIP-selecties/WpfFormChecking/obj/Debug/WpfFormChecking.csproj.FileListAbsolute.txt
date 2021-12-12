@@ -1,0 +1,3 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfFormChecking\obj\Debug\WpfFormChecking.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfFormChecking\obj\Debug\App.g.cs
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfFormChecking\obj\Debug\WpfFormChecking_MarkupCompile.cache
