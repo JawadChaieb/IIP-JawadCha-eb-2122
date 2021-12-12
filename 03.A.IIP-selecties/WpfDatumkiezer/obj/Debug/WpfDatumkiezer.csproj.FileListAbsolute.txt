@@ -1,0 +1,14 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\bin\Debug\WpfDatumkiezer.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\bin\Debug\WpfDatumkiezer.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\bin\Debug\WpfDatumkiezer.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\MainWindow.g.cs
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\App.g.cs
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer_MarkupCompile.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer_MarkupCompile.lref
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\MainWindow.baml
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.g.resources
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.Properties.Resources.resources
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.csproj.GenerateResource.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.pdb
