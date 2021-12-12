@@ -1,0 +1,6 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleRaden\obj\Debug\ConsoleRaden.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleRaden\bin\Debug\ConsoleRaden.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleRaden\bin\Debug\ConsoleRaden.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleRaden\bin\Debug\ConsoleRaden.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleRaden\obj\Debug\ConsoleRaden.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleRaden\obj\Debug\ConsoleRaden.pdb
