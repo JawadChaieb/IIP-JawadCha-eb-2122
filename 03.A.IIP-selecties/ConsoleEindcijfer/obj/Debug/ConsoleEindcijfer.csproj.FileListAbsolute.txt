@@ -1,0 +1,6 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleEindcijfer\bin\Debug\ConsoleEindcijfer.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleEindcijfer\bin\Debug\ConsoleEindcijfer.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleEindcijfer\bin\Debug\ConsoleEindcijfer.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleEindcijfer\obj\Debug\ConsoleEindcijfer.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleEindcijfer\obj\Debug\ConsoleEindcijfer.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\03.A.IIP-selecties\ConsoleEindcijfer\obj\Debug\ConsoleEindcijfer.pdb
