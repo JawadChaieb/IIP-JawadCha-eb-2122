@@ -1,0 +1,6 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleLancering\bin\Debug\ConsoleLancering.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleLancering\bin\Debug\ConsoleLancering.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleLancering\bin\Debug\ConsoleLancering.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleLancering\obj\Debug\ConsoleLancering.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleLancering\obj\Debug\ConsoleLancering.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleLancering\obj\Debug\ConsoleLancering.pdb
