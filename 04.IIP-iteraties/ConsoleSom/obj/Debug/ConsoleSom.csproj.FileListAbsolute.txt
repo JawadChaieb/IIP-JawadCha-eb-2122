@@ -1,0 +1,5 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleSom\bin\Debug\ConsoleSom.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleSom\bin\Debug\ConsoleSom.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleSom\bin\Debug\ConsoleSom.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleSom\obj\Debug\ConsoleSom.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleSom\obj\Debug\ConsoleSom.pdb
