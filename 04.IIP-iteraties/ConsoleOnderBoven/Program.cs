@@ -24,7 +24,7 @@ namespace ConsoleOnderBoven
             }
 
             Console.WriteLine($"Bereik: van {ondergrens} tot {bovengrens}");
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
