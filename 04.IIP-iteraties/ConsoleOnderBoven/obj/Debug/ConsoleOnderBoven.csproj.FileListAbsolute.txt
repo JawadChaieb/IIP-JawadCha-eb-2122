@@ -1,0 +1,6 @@
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleOnderBoven\bin\Debug\ConsoleOnderBoven.exe.config
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleOnderBoven\bin\Debug\ConsoleOnderBoven.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleOnderBoven\bin\Debug\ConsoleOnderBoven.pdb
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleOnderBoven\obj\Debug\ConsoleOnderBoven.csprojAssemblyReference.cache
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleOnderBoven\obj\Debug\ConsoleOnderBoven.exe
+C:\Users\jawad\source\repos\JawadChaieb\IIP-JawadChaieb-2122\04.IIP-iteraties\ConsoleOnderBoven\obj\Debug\ConsoleOnderBoven.pdb
